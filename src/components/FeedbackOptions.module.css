@@ -1,0 +1,26 @@
+.buttonsDiv {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.buttons {
+  padding: 7px;
+  border-radius: 6px;
+  outline: none;
+  border: none;
+  background-color: rgb(212, 86, 113);
+  width: 120px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  border: 1.5px solid black;
+  cursor: pointer;
+  letter-spacing: 1.17px;
+  transition: all 300ms;
+}
+
+.buttons:hover {
+  background-color: rgb(151, 59, 79);
+}

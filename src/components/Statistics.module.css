@@ -1,0 +1,70 @@
+.divContent {
+  display: flex;
+  gap: 30px;
+}
+
+.goodMark {
+  text-align: center;
+  width: 130px;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 30px;
+  background-color: rgb(77, 165, 37);
+  color: white;
+  font-weight: 500;
+  border: 1.6px solid black;
+}
+
+.neutralMark {
+  text-align: center;
+  width: 160px;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 30px;
+  background-color: rgb(202, 180, 53);
+  color: white;
+  font-weight: 500;
+  border: 1.6px solid black;
+}
+
+.badMark {
+  text-align: center;
+  width: 130px;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 30px;
+  background-color: rgb(216, 13, 46);
+  color: white;
+  font-weight: 500;
+  border: 1.6px solid black;
+}
+
+.total {
+  text-align: center;
+  width: 130px;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 30px;
+  background-color: rgb(177, 175, 175);
+  color: white;
+  font-weight: 500;
+  border: 1.6px solid black;
+}
+
+.positiveFeedback {
+  text-align: center;
+  width: 350px;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 30px;
+  background-color: rgb(109, 190, 54);
+  color: white;
+  font-weight: 500;
+  border: 1.6px solid black;
+}
+
+.noStatText {
+  font-size: 36px;
+  letter-spacing: 1.1px;
+  font-weight: 500;
+}
