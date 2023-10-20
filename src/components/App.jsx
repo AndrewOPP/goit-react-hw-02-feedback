@@ -14,10 +14,6 @@ export function App() {
     if (key === 'neutral') return setNeutral(neutral + 1);
   };
 
-  // useEffect(() => {
-  //   first;
-  // }, [good, neutral, bad]);
-
   const countTotalFeedback = () => {
     return good + neutral + bad;
   };
